@@ -1,0 +1,17 @@
+.banner {
+    background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    color: #ffffff;
+    text-align: center;
+    padding: 2.5em 2em;
+}
+
+.banner__titulo {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.banner__texto {
+    font-weight: 500;
+    margin: 1em 0;
+}
+
