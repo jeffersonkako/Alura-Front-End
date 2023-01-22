@@ -18,10 +18,21 @@ a {
     text-decoration: none;
     color: #000;
     text-align: center;
-    text-align: left;
     width: 50px;
+    font-weight: bold;
 }
 
 img {
     text-align: right;
+}
+
+.container {
+    display: flex;
+    width: 80vw;
+    margin: auto;
+    padding: 100px
+}
+
+p {
+    padding-bottom: 20px;
 }
